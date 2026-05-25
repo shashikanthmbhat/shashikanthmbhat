@@ -1,58 +1,148 @@
-<h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
+<!--Name-->
+<span><h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1></span>
 
-<!-----Example--->
-
-<table border = "0">
-  <tr>
-    <td width="60%" valign="top">
-     <!--Start Intro--> 
-        <h3 align="left"> About me </h3>
-<h3 align="justyfy">
+<!--Occupation-->
+<h3 align="center">
     PowerBI Analyst | Experienced Statistician | Research & Analytics Expert
 </h3>
-<p align="justify">
-    Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
-</p>
-    </td>
-      <!--My image-->
-    <td width="40%" align="center" valign="middle">
-        <img align="right" width="100%" src="./Photo/Github Photo Without Bg 2.png">
-    </td>
-  </tr>
-</table>
-<!------------------>
 
+<!--About Me Section--->
 <details open>
-<summary style="display: none;"></summary>
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <!--Start Intro-->
-      <h3 align="left">About me</h3>
-      <h3 align="justify">PowerBI Analyst | Experienced Statistician | Research & Analytics Expert</h3>
-      <p align="justify">
-        Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
-      </p>
-    </td>
-    <!--My image-->
-    <td width="40%" align="center" valign="middle">
-      <img align="right" width="100%" src="./Photo/Github Photo Without Bg 2.png" alt="Profile Photo">
-    </td>
-  </tr>
-</table>
-</details>
+  <summary> <h3> About Me </h3> </summary>
+  <!-----profile Image--->
+  <div>
+    <img align="right" width="40%" src="./Photo/Github Photo Without Bg 2.png">
+  </div>
 
+  <!-----Intro--->
+  <p align="justify">
+      Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
+  </p>
+  <ul align="left">
+    <li>🔭 I’m currently working on 
+      <span>
+        <strong>
+          <a href="https://github.com/shashi120992/Pac-Man">supply Chail Dashboard</a>
+        </strong>
+      </span>
+    </li>
+    <li>🌱 I’m Expirienced in
+        <span>
+          <strong>
+            R Programming, SPSS & PowerBI DAX
+          </strong>
+        </span>
+        currently learning 
+       <span>
+         <strong>
+          C#,C++, Data Structures & Algorithms
+        </strong>
+       </span>
+        .
+    </li>
+    <li>
+      👨‍💻 All of my projects are available at
+      <span>
+        <strong>
+          <a href="https://shashi120992.wixsite.com/shashikanth">My Portfolio</a>
+        </strong>
+      </span>
+    </li>
+    <li>
+      📫 How to reach me
+      <span>
+        <strong>
+          <a href="mailto:shashkanthmbhat@gmail.com">shashkanthmbhat@gmail.com</a>
+        </strong>
+      </span>
+    </li>  
+  </ul>
+ </details>
+
+ <!--Language----->
+<details open>
+  <summary><h2> Language & Tools </h2></summary>
+    <h3 align="left">Current Learning</h3>
+      <ul align="left">
+        <li>Improving my skills in statistical analysis with PowerBI, R and Python</li>
+        <li>Deepening my knowledge in Machine Learning and AI.</li>
+        <li>Exploring advanced C#, C++ and state management techniques.</li>
+      </ul>
+  
+  <!--Languages-->
+  <h3 align="left">Programming Languages :</h3>
+  <ul align="left">
+        <li>
+          <a href="https://replit.com/@shashi120992" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width=20 height=20 />
+             C# (Intermediate)
+          </a>
+        </li>
+        <li>C++ (Beginner)</li>
+        <a href="https://replit.com/@shashi120992" target="_blank">
+          <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" width=10 height=10 />
+            C++ (Beginner)
+        </a>
+    
+  </ul>
+
+  <!-------------------->
+
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
+    &nbsp;
+    &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
+  </p>
+  <p>
+    biginner biginner
+  </p>
+    
+  <!----------------------->
+
+  <p align="left">
+  <!-- TOP ROW: Coding Language Badges -->
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
+    &nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
+    &nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" width=50 height=50 align="center" />
+    &nbsp;&nbsp;
+   
+<!--button-->
+<a href="https://your-link-here.com">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="Button" style="background-color: #36454f; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;"> Statistical 
+</a>
+
+<div>
+    <img align="left" src="./Photo/Github Photo Without Bg 2.png">
+  </div>
+
+
+
+
+
+    https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000
+  
+  <br><br> <!-- Space between rows -->
+  
+  <!-- BOTTOM ROW: Proficiency Levels -->
+  <span><b>Advanced</b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><b>Intermediate</b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><b>Beginner</b></span>
+</p>
+
+  
+   
+Game Engines : Unity 3D.
+Version Control : Git.
+Programming Design Patterns : Singleton, MVC, Observer, State Machine, Object Pooling
+</details>
 <!-------->
 
 
 
-- 🔭 I’m currently working on **[Supply Chain Dashboard](https://github.com/shashi120992/Pac-Man)**
 
-- 🌱 I’m Expirienced in **R Programming, SPSS & PowerBI DAX **currently learning **C#,C++, Data Structures & Algorithms.**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shashi120992.wixsite.com/shashikanth)**
-
-- 📫 How to reach me **shashkanthmbhat@gmail.com**
 
 ## 🚀 Languages and Tools:
 
