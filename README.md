@@ -1,5 +1,11 @@
 <!--Name-->
-<span><h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1></span>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
+
 
 <!--Occupation-->
 <h3 align="center">
@@ -115,14 +121,10 @@
 </a>
 
 <div>
-    <img align="left" src="./Photo/Github Photo Without Bg 2.png">
+    <img align="left" src="./Photo/Stat Analysis.png">
   </div>
 
 
-
-
-
-    https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000
   
   <br><br> <!-- Space between rows -->
   
@@ -206,5 +208,9 @@ Programming Design Patterns : Singleton, MVC, Observer, State Machine, Object Po
 <a href="https://www.youtube.com" target="_blank">
 <img src="./Icon/Icons/Youtube.png" width=50 height=50 alt="Youtube" style="margin-bottom: 5px;" />
 </a>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlignY=51&section=footer&reversal=false&fontSize=45"/>
+</p>
 <!--End Of Page>
-<!------Extra>
