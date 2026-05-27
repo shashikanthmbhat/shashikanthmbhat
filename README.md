@@ -1,10 +1,11 @@
 <!--Name-->
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
+  <img align="left" src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
+  <h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
+
 
 
 <!--Occupation-->
@@ -64,6 +65,18 @@
     </li>  
   </ul>
  </details>
+ <!------------------->
+
+# 💻 Tech Stack:
+  ![Static Badge](https://img.shields.io/badge/Statistical_Analysis-EA4335?style=flat)
+
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!------------------->
 
  <!--Language----->
 <details open>
