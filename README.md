@@ -11,25 +11,21 @@
     PowerBI Analyst | Experienced Statistician | Research & Analytics Expert
   </h3>
   <!---Social-->
-  <div align="center">
+  <p align="center">
      <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/shashikanthmbhat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="240" />
 </a>
-&nbsp;
 &nbsp;
 
 <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/%2B91_9886226207-25D366?style=flat&logo=whatsapp&logoColor=white" height="30" width="150" />
 </a>
 &nbsp;
-&nbsp;
 
 <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank">
      <img src="https://img.shields.io/badge/Shashikanth_Bhat-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="150" />
 </a>
-  </div>
-  <!--blank_Line--->
- <h1> </h1>
+  </p>
 </div>
 </details>
 
@@ -37,8 +33,7 @@
 
 
 <!--About Me Section--->
-<details open>
-  <summary> <h1> 💫 About Me: </h1> </summary>
+# 💫 About Me:
   <!-----profile Image--->
   <div>
     <img align="right" width="40%" src="./Photo/Github Photo Without Bg 2.png">
@@ -87,36 +82,28 @@
       </span>
     </li>  
   </ul>
- </details>
- <!------------------->
 
+ <!--Programming Language Section----->
 # 💻 Tech Stack:
-
-
-<!-----Github Stats-------->
-  # 📊 GitHub Stats:
-  <!----Read Me Stats---------->
-![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
-&nbsp;
-<!----------Streak Stats---------->
-![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=380)
-<br/>
-<!--------- Most Used Languages----
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--------->
-
- <!--Language----->
-<details open>
-  <summary><h2>💻 Tech Stack</h2></summary>
-    <h3 align="left">Current Learning</h3>
+<!--summary-->
+<h3 align="left">Current Learning</h3>
       <ul align="left">
         <li>Improving my skills in statistical analysis with PowerBI, R and Python</li>
         <li>Deepening my knowledge in Machine Learning and AI.</li>
         <li>Exploring advanced C#, C++ and state management techniques.</li>
       </ul>
 
+       <!-- Programming Languages -->
+   <p align="left">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
+    &nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
+    &nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" width=50 height=50 align="center" />
+    &nbsp;&nbsp;
+   </p>
+ 
   <!--Statistical Skills-->
-  
 <h3>Statistical Skills :</h3>
 <p>
   <img src="https://img.shields.io/badge/Statistical_Modelling-4285F4?style=flat" height="30" width="170" />
@@ -143,77 +130,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Time_Series_Analysis-241571?style=flat" height="30" width="170" />
 </p>
-  
-  <!--Languages-->
-  <h3 align="left">Programming Languages :</h3>
-  <ul align="left">
-        <li>
-          <a href="https://replit.com/@shashi120992" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width=20 height=20 />
-             C# (Intermediate)
-          </a>
-        </li>
-        <li>C++ (Beginner)</li>
-        <a href="https://replit.com/@shashi120992" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" width=10 height=10 />
-            C++ (Beginner)
-        </a>
-    
-  </ul>
-
-  <!-------------------->
-
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
-    &nbsp;
-    &nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
-  </p>
-  <p>
-    biginner biginner
-  </p>
-    
-  <!----------------------->
-
-  <p align="left">
-  <!-- TOP ROW: Coding Language Badges -->
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
-    &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
-    &nbsp;&nbsp;
-    <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" width=50 height=50 align="center" />
-    &nbsp;&nbsp;
-   
-<!--button-->
-<a href="https://your-link-here.com">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="Button" style="background-color: #36454f; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none;"> Statistical 
-</a>
-
-<div>
-    <img align="left" src="./Photo/Stat Analysis.png">
-  </div>
-
-
-  
-  <br><br> <!-- Space between rows -->
-  
-  <!-- BOTTOM ROW: Proficiency Levels -->
-  <span><b>Advanced</b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><b>Intermediate</b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><b>Beginner</b></span>
-</p>
-
-  
-   
-Game Engines : Unity 3D.
-Version Control : Git.
-Programming Design Patterns : Singleton, MVC, Observer, State Machine, Object Pooling
-</details>
-<!-------->
-
-
-
-
 
 ## 🚀 Languages and Tools:
 
@@ -226,6 +142,16 @@ Programming Design Patterns : Singleton, MVC, Observer, State Machine, Object Po
 </p>
 <!---------------------------->
 
+<!-----Github Stats-------->
+  # 📊 GitHub Stats:
+  <!----Read Me & Streek Stats---------->
+![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
+&nbsp;
+![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=390)
+<br/>
+<!--------- Most Used Languages----
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-------->
 
 <!--Contact Section--> 
 
@@ -280,6 +206,6 @@ Programming Design Patterns : Singleton, MVC, Observer, State Machine, Object Po
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlignY=51&section=footer&reversal=false&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=footer&reversal=false&fontSize=45"/>
 </p>
 <!--End Of Page>
