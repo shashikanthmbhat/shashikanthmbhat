@@ -99,7 +99,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
 &nbsp;
 <!----------Streak Stats---------->
-![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=395)
+![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=380)
 <br/>
 <!--------- Most Used Languages----
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
