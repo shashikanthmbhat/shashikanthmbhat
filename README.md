@@ -82,6 +82,8 @@
       </span>
     </li>  
   </ul>
+  <br/>
+  <br/>
 
  <!--Programming Language Section----->
 # 💻 Tech Stack:
