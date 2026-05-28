@@ -1,21 +1,44 @@
-<!--Name-->
-<!--Footer--> 
+<!--Header--> 
 <p align="center">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
-  <h1 align="center">Hi 👋, I'm Shashikanth Bhat</h1>
+  <img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
 </p>
 
-
-
-
-<!--Occupation-->
-<h3 align="center">
+<details open>
+  <summary align="center" list-style: none;><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
+<div>
+   <!--Occupation-->
+  <h3 align="center">
     PowerBI Analyst | Experienced Statistician | Research & Analytics Expert
-</h3>
+  </h3>
+  <!---Social-->
+  <div align="center">
+     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/shashikanthmbhat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="240" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/%2B91_9886226207-25D366?style=flat&logo=whatsapp&logoColor=white" height="30" width="150" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank">
+     <img src="https://img.shields.io/badge/Shashikanth_Bhat-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="150" />
+</a>
+  </div>
+  <!--blank_Line--->
+ <h1> </h1>
+</div>
+</details>
+
+
+
 
 <!--About Me Section--->
 <details open>
-  <summary> <h3> About Me </h3> </summary>
+  <summary> <h1> 💫 About Me: </h1> </summary>
   <!-----profile Image--->
   <div>
     <img align="right" width="40%" src="./Photo/Github Photo Without Bg 2.png">
@@ -68,25 +91,58 @@
  <!------------------->
 
 # 💻 Tech Stack:
-  ![Static Badge](https://img.shields.io/badge/Statistical_Analysis-EA4335?style=flat)
 
+
+<!-----Github Stats-------->
   # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=dark&hide_border=false)<br/>
+  <!----Read Me Stats---------->
+![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
+&nbsp;
+<!----------Streak Stats---------->
+![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=395)
+<br/>
+<!--------- Most Used Languages----
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!------------------->
+-------->
 
  <!--Language----->
 <details open>
-  <summary><h2> Language & Tools </h2></summary>
+  <summary><h2>💻 Tech Stack</h2></summary>
     <h3 align="left">Current Learning</h3>
       <ul align="left">
         <li>Improving my skills in statistical analysis with PowerBI, R and Python</li>
         <li>Deepening my knowledge in Machine Learning and AI.</li>
         <li>Exploring advanced C#, C++ and state management techniques.</li>
       </ul>
+
+  <!--Statistical Skills-->
+  
+<h3>Statistical Skills :</h3>
+<p>
+  <img src="https://img.shields.io/badge/Statistical_Modelling-4285F4?style=flat" height="30" width="170" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Designs_Of_Experiments_(DOE)-EA4335?style=flat" height="30" width="230" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Multivariate_Data_analysis-FBBC04?style=flat"  height="30" width="220" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Quality_Control_tools-185C37?style=flat" height="30" width="170" />
+  
+  <img src="https://img.shields.io/badge/Operational_Research-D04423?style=flat" height="30" width="180" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Regression_Analysis-AE4BD5?style=flat" height="30" width="170" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Generalized_Linear_Model-C94F60?style=flat" height="30" width="200" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Artificial_Intelligence_(AI)-34A853?style=flat" height="30" width="200" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Machine_Learning_(ML)-36454F?style=flat" height="30" width="170" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Decision_Trees-FF99CC?style=flat" height="30" width="130" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Finite_Population_Correction_Theory-36454F?style=flat" height="30" width="250" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-241571?style=flat" height="30" width="170" />
+</p>
   
   <!--Languages-->
   <h3 align="left">Programming Languages :</h3>
