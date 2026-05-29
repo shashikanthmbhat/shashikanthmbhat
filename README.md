@@ -123,6 +123,18 @@
      <li>C++</li>
   </ul>
    <p align="left">
+     <img src="./Logos_PL/1.png" width=100 height=100 alt="Excel VBA" />
+     &nbsp;&nbsp;
+     <img src="./Logos_PL/2.png" width=100 height=100 alt="PowerBI DAX" />
+     &nbsp;&nbsp;
+     <img src="./Logos_PL/3.png" width=100 height=100 alt="R Programming" />
+     &nbsp;&nbsp;
+     <img src="./Logos_PL/4.png" width=100 height=100 alt="C#" />
+     &nbsp;&nbsp;
+     <img src="./Logos_PL/5.png" width=100 height=100 alt="C++" />
+   </p>
+   
+   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
     &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
