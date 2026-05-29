@@ -94,8 +94,34 @@
         <li>Deepening my knowledge in Machine Learning and AI.</li>
         <li>Exploring advanced C#, C++ and state management techniques.</li>
       </ul>
+      
+  <h3>Business Intelligence Tools:</h3>
+  <ul align="left">
+    <li>PowerBI</li>
+    <li>Excel VBA</li>
+    <li>R Programming</li>
+    <li> SPSS</li>
+    <li>Python</li>
+  </ul>
 
-       <!-- Programming Languages -->
+  
+  <h3>Data Analysis & Modelling:</h3>
+ <ul align="left">
+    <li>DAX</li>
+    <li>Power Query</li>
+    <li>ETL</li>
+    <li>Data Warehousing</li>
+  </ul>
+
+   <!-- Programming Languages -->
+  <h3>Programming Languages:</h3> 
+   <ul align="left">
+    <li>DAX</li>
+    <li>VBA</li>
+    <li>R Programming</li>
+    <li>C#</li>
+     <li>C++</li>
+  </ul>
    <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
     &nbsp;&nbsp;
