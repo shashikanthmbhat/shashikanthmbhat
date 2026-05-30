@@ -3,6 +3,10 @@
   <img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
 </p>
 
+<!-----profile Image--->
+  <div>
+    <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
+  </div>
 <details open>
   <summary align="center" list-style: none;><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
 <div>
@@ -123,17 +127,15 @@
      <li>C++</li>
   </ul>
    <p align="left">
-     <img src="./Logos_PL/1.png" width=100 height=100 alt="Excel VBA" />
+     <img src="./Logos_PL/1.png" width=80 height=80 alt="Excel VBA" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/2.png" width=100 height=100 alt="PowerBI DAX" />
+     <img src="./Logos_PL/2.png" width=80 height=80 alt="PowerBI DAX" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/3.png" width=100 height=100 alt="R Programming" />
+     <img src="./Logos_PL/3.png" width=80 height=80 alt="R Programming" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/4.png" width=100 height=100 alt="C#" />
+     <img src="./Logos_PL/4.png" width=80 height=80 alt="C#" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/5.png" width=100 height=100 alt="C++" />
-     &nbsp;&nbsp;
-     <img src="./Logos_PL/Excel.png" width=80 height=80 alt="Excel" />
+     <img src="./Logos_PL/5.png" width=80 height=80 alt="C++" />
    </p>
    
    <p align="left">
