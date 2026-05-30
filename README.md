@@ -132,6 +132,12 @@
      <img src="./Logos_PL/4.png" width=100 height=100 alt="C#" />
      &nbsp;&nbsp;
      <img src="./Logos_PL/5.png" width=100 height=100 alt="C++" />
+     &nbsp;&nbsp;
+     <img src="./Logos_PL/Excel.png" width=80 height=80 alt="Excel" />
+   </p>
+   
+   <p align="left">
+     <img src="./Logos_PL/Excel.png" width=80 height=80 alt="Excel" />
    </p>
    
    <p align="left">
