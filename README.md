@@ -12,22 +12,22 @@
 <div>
    <!--Occupation-->
   <h3 align="center">
-    PowerBI Analyst | Experienced Statistician | Research & Analytics Expert
+    PowerBI Analyst | Statistician | Research & Analytics Expert
   </h3>
   <!---Social-->
   <p align="center">
      <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/shashikanthmbhat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="240" />
+     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="100" />
 </a>
 &nbsp;
 
 <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/%2B91_9886226207-25D366?style=flat&logo=whatsapp&logoColor=white" height="30" width="150" />
+     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" height="30" width="100" />
 </a>
 &nbsp;
 
 <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank">
-     <img src="https://img.shields.io/badge/Shashikanth_Bhat-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="150" />
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="100" />
 </a>
   </p>
 </div>
