@@ -38,10 +38,11 @@
 
 <!--About Me Section--->
 # 💫 About Me:
-  <!-----profile Image--->
+  <!-----profile Image--
   <div>
     <img align="right" width="40%" src="./Photo/Github Photo Without Bg 2.png">
   </div>
+  ---->
 
   <!-----Intro--->
   <p align="justify">
@@ -89,8 +90,10 @@
   <br/>
   <br/>
 
- <!--Programming Language Section----->
+ <!--Programming Language Section----
 # 💻 Tech Stack:
+---->
+# 🚀 Languages and Tools:
 <!--summary-->
 <h3 align="left">Current Learning</h3>
       <ul align="left">
@@ -118,14 +121,7 @@
   </ul>
 
    <!-- Programming Languages -->
-  <h3>Programming Languages:</h3> 
-   <ul align="left">
-    <li>DAX</li>
-    <li>VBA</li>
-    <li>R Programming</li>
-    <li>C#</li>
-     <li>C++</li>
-  </ul>
+  <h3>Programming Languages:</h3>
    <p align="left">
      <img src="./Logos_PL/1.png" width=80 height=80 alt="Excel VBA" />
      &nbsp;&nbsp;
@@ -137,20 +133,7 @@
      &nbsp;&nbsp;
      <img src="./Logos_PL/5.png" width=80 height=80 alt="C++" />
    </p>
-   
-   <p align="left">
-     <img src="./Logos_PL/Excel.png" width=80 height=80 alt="Excel" />
-   </p>
-   
-   <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" align="center" />
-    &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" align="center" />
-    &nbsp;&nbsp;
-    <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" width=50 height=50 align="center" />
-    &nbsp;&nbsp;
-   </p>
- 
+
   <!--Statistical Skills-->
 <h3>Statistical Skills :</h3>
 <p>
@@ -179,16 +162,6 @@
   <img src="https://img.shields.io/badge/Time_Series_Analysis-241571?style=flat" height="30" width="170" />
 </p>
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://replit.com/@shashi120992" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://replit.com/@shashi120992" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png"/> </a>    
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-</p>
-<!---------------------------->
 
 <!-----Github Stats-------->
   # 📊 GitHub Stats:
