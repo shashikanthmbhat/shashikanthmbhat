@@ -1,15 +1,10 @@
 <!--Header--> 
-<p align="center">
-  <img align="left" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
-</p>
-
-<!-----profile Image--->
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
+<!-----profile Image-->
   <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
 <details open>
-  <summary align="center" list-style: none;><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
-   <!--Occupation-->
-  <h3 align="center"> PowerBI Analyst | Statistician | Research & Analytics Expert </h3>
-  <!---Social-->
+  <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
+  <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
   <p align="center">
   <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
      <img src="./Logos_Head/website.png" Height="30" />
@@ -73,7 +68,9 @@
             R Programming, SPSS & PowerBI DAX
           </strong>
         </span>
-        currently learning 
+        .
+    </li>
+    <li>🚀 I’m currently learning 
        <span>
          <strong>
           C#,C++, Data Structures & Algorithms
@@ -98,8 +95,6 @@
       </span>
     </li>  
   </ul>
-  <br/>
-  <br/>
 
  <!--Programming Language Section----
 # 💻 Tech Stack:
