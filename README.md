@@ -4,17 +4,28 @@
 </p>
 
 <!-----profile Image--->
-  <div>
-    <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
-  </div>
+  <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
 <details open>
   <summary align="center" list-style: none;><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
-<div>
    <!--Occupation-->
-  <h3 align="center">
-    PowerBI Analyst | Statistician | Research & Analytics Expert
-  </h3>
+  <h3 align="center"> PowerBI Analyst | Statistician | Research & Analytics Expert </h3>
   <!---Social-->
+  <p align="center">
+  <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
+     <img src="./Logos_Head/website.png" Height="30" />
+  </a>
+  <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
+     <img src="./Logos_Head/gmail.png" Height="30" />
+</a>
+<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
+     <img src="./Logos_Head/whatsapp.png" Height="30" />
+</a>
+<a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank">
+     <img src="./Logos_Head/linkedin.png" Height="30" />
+</a>
+  </p>
+
+<!---social Old---
   <p align="center">
      <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="100" />
@@ -30,7 +41,7 @@
      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="100" />
 </a>
   </p>
-</div>
+  --->
 </details>
 
 
@@ -103,35 +114,53 @@
       </ul>
       
   <h3>Business Intelligence Tools:</h3>
-  <ul align="left">
-    <li>PowerBI</li>
-    <li>Excel VBA</li>
-    <li>R Programming</li>
-    <li> SPSS</li>
-    <li>Python</li>
-  </ul>
+  <p align="left">
+     <img src="./Logos_BI/powerbi.png" width=80 height=80 alt="Excel VBA" />
+     &nbsp;&nbsp;
+     <img src="./Logos_BI/excel.png" width=80 height=80 alt="PowerBI DAX" />
+     &nbsp;&nbsp;
+     <img src="./Logos_BI/r.png" width=80 height=80 alt="R Programming" />
+     &nbsp;&nbsp;
+     <img src="./Logos_BI/spss.png" width=80 height=80 alt="C#" />
+     &nbsp;&nbsp;
+     <img src="./Logos_BI/python.png" width=80 height=80 alt="C++" />
+   </p>
 
   
   <h3>Data Analysis & Modelling:</h3>
- <ul align="left">
-    <li>DAX</li>
-    <li>Power Query</li>
-    <li>ETL</li>
-    <li>Data Warehousing</li>
-  </ul>
+  <p align="left">
+     <img src="./Logos_DM/dax.png" width=80 height=80 alt="Excel VBA" />
+     &nbsp;&nbsp;
+     <img src="./Logos_DM/powerquery.png" width=80 height=80 alt="PowerBI DAX" />
+     &nbsp;&nbsp;
+     <img src="./Logos_DM/etl.png" width=80 height=80 alt="R Programming" />
+     &nbsp;&nbsp;
+     <img src="./Logos_DM/datawarehousing.png" width=80 height=80 alt="C#" />
+   </p>
+
 
    <!-- Programming Languages -->
   <h3>Programming Languages:</h3>
    <p align="left">
-     <img src="./Logos_PL/1.png" width=80 height=80 alt="Excel VBA" />
+     <img src="./Logos_PL/vba.png" width=80 height=80 alt="Excel VBA" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/2.png" width=80 height=80 alt="PowerBI DAX" />
+     <img src="./Logos_PL/dax.png" width=80 height=80 alt="PowerBI DAX" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/3.png" width=80 height=80 alt="R Programming" />
+     <img src="./Logos_PL/r.png" width=80 height=80 alt="R Programming" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/4.png" width=80 height=80 alt="C#" />
+     <img src="./Logos_PL/csharp.png" width=80 height=80 alt="C#" />
      &nbsp;&nbsp;
-     <img src="./Logos_PL/5.png" width=80 height=80 alt="C++" />
+     <img src="./Logos_PL/cplusplus.png" width=80 height=80 alt="C++" />
+   </p>
+
+   <!---database softwares--->
+   <h3>Database Softwares:</h3>
+   <p align="left">
+     <img src="./Logos_DB/mysql.png" width=80 height=80 alt="Excel VBA" />
+     &nbsp;&nbsp;
+     <img src="./Logos_DB/mongodb.png" width=80 height=80 alt="PowerBI DAX" />
+     &nbsp;&nbsp;
+     <img src="./Logos_DB/oracle.png" width=80 height=80 alt="R Programming" />
    </p>
 
   <!--Statistical Skills-->
