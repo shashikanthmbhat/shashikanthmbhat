@@ -202,6 +202,8 @@
 -------->
 <!--Contact Section--> 
 
+<!----Old Social ICons --Start----
+
 <h2 align="center">🤝 Connect With Me @ 🤝 </h2>
 <div align="center">
   
@@ -250,6 +252,64 @@
 <a href="https://www.youtube.com" target="_blank">
 <img src="./Icon/Icons/Youtube.png" width=50 height=50 alt="Youtube" style="margin-bottom: 5px;" />
 </a>
+
+----Old Social Icon -----End---------------------->
+
+<!-------------------New Social Icons-------------->
+<!-----Blank Line------------>
+<h1></h1>
+
+<!----Icons----->
+
+<h3 align="center">🤝 Connect With Me @ 🤝 </h3>
+<div align="center">
+  
+<a href="" target="_blank">
+<img src="./Social Icons/website.png" width=50 height=50 alt="Website" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
+<img src="./Social Icons/gmail.png" width=50 height=50 alt="Gmail" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://www.instagram.com" target="_blank">
+<img src="./Social Icons/instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://www.githubcom/shashikanthmbht" target="_blank">
+<img src="./Social Icons/github.png" width=50 height=50 alt="Github" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://www.linkedin.com" target="_blank">
+<img src="./Social Icons/linkedin.png" width=50 height=50 alt="Linkedin" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://www.linkedin.com" target="_blank">
+<img src="./Social Icons/whatsapp.png" width=50 height=50 alt="Linked In" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://www.facebook.com" target="_blank">
+<img src="./Social Icons/facebook.png" width=50 height=50 alt="Facebook" style="margin-bottom: 5px;" />
+</a>
+&nbsp;
+&nbsp;
+
+<a href="https://www.youtube.com" target="_blank">
+<img src="./Social Icons/youtube.png" width=50 height=50 alt="Youtube" style="margin-bottom: 5px;" />
+</a>
+
 
 <!--Footer--> 
 <p align="center">
