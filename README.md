@@ -257,12 +257,10 @@
 
 <!-------------------New Social Icons-------------->
 <!-----Blank Line------------>
-<h1></h1>
 
 <!----Icons----->
-
-<h3 align="center">🤝 Connect With Me @ 🤝 </h3>
-<div align="center">
+# 🤝 Connect With Me
+<div align="left">
   
 <a href="" target="_blank">
 <img src="./Social Icons/website.png" width=50 height=50 alt="Website" style="margin-bottom: 5px;" />
@@ -309,7 +307,7 @@
 <a href="https://www.youtube.com" target="_blank">
 <img src="./Social Icons/youtube.png" width=50 height=50 alt="Youtube" style="margin-bottom: 5px;" />
 </a>
-
+</div>
 
 <!--Footer--> 
 <p align="center">
