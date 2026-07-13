@@ -5,95 +5,26 @@
 <details open>
   <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
+  <!----------------------------------------------------------------------------------** Social Media **--------------------------------------------------------->
   <p align="center">
-  <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="./Logos_Head/website.png" Height="30" />
-  </a>
-  <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="./Logos_Head/gmail.png" Height="30" />
-</a>
-<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="./Logos_Head/whatsapp.png" Height="30" />
-</a>
-<a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank">
-     <img src="./Logos_Head/linkedin.png" Height="30" />
-</a>
+    <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
+    <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
+    <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/whatsapp.png" Height="30" /></a>
+    <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank"><img src="./Logos_Head/linkedin.png" Height="30" /></a>
   </p>
-
-<!---social Old---
-  <p align="center">
-     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="100" />
-</a>
-&nbsp;
-
-<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" height="30" width="100" />
-</a>
-&nbsp;
-
-<a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="100" />
-</a>
-  </p>
-  --->
 </details>
-
-
-
 
 <!--About Me Section--->
 # 💫 About Me:
-  <!-----profile Image--
-  <div>
-    <img align="right" width="40%" src="./Photo/Github Photo Without Bg 2.png">
-  </div>
-  ---->
-
-  <!-----Intro--->
   <p align="justify">
       Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
   </p>
   <ul align="left">
-    <li>🔭 I’m currently working on 
-      <span>
-        <strong>
-          <a href="https://github.com/shashi120992/Pac-Man">supply Chail Dashboard</a>
-        </strong>
-      </span>
-    </li>
-    <li>🌱 I’m Expirienced in
-        <span>
-          <strong>
-            R Programming, SPSS & PowerBI DAX
-          </strong>
-        </span>
-        .
-    </li>
-    <li>🚀 I’m currently learning 
-       <span>
-         <strong>
-          C#,C++, Data Structures & Algorithms
-        </strong>
-       </span>
-        .
-    </li>
-    <li>
-      👨‍💻 All of my projects are available at
-      <span>
-        <strong>
-          <a href="https://shashi120992.wixsite.com/shashikanth">My Portfolio</a>
-        </strong>
-      </span>
-    </li>
-    <li>
-      📫 How to reach me
-      <span>
-        <strong>
-          <a href="mailto:shashkanthmbhat@gmail.com">shashkanthmbhat@gmail.com</a>
-        </strong>
-      </span>
-    </li>  
+    <li>🔭 I’m currently working on <strong><a href="https://github.com/shashi120992/Pac-Man">supply Chail Dashboard</a></strong></li>
+    <li>🌱 I’m Expirienced in <strong>R Programming, SPSS & PowerBI DAX</strong>.</li>
+    <li>🚀 I’m currently learning <strong>C#,C++, Data Structures & Algorithms</strong>.</li>
+    <li>👨‍💻 All of my projects are available at <strong><a href="https://shashi120992.wixsite.com/shashikanth">My Portfolio</a></strong></li>
+    <li>📫 How to reach me <strong><a href="mailto:shashkanthmbhat@gmail.com">shashkanthmbhat@gmail.com</a></strong></li>  
   </ul>
 
  <!--Programming Language Section----
@@ -110,79 +41,55 @@
       
   <h3>Business Intelligence Tools:</h3>
   <p align="left">
-     <img src="./Logos_BI/powerbi.png" width=80 height=80 alt="Excel VBA" />
-     &nbsp;&nbsp;
-     <img src="./Logos_BI/excel.png" width=80 height=80 alt="PowerBI DAX" />
-     &nbsp;&nbsp;
-     <img src="./Logos_BI/r.png" width=80 height=80 alt="R Programming" />
-     &nbsp;&nbsp;
-     <img src="./Logos_BI/spss.png" width=80 height=80 alt="C#" />
-     &nbsp;&nbsp;
+     <img src="./Logos_BI/powerbi.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
+     <img src="./Logos_BI/excel.png" width=80 height=80 alt="PowerBI DAX" />&nbsp;&nbsp;
+     <img src="./Logos_BI/r.png" width=80 height=80 alt="R Programming" />&nbsp;&nbsp;
+     <img src="./Logos_BI/spss.png" width=80 height=80 alt="C#" />&nbsp;&nbsp;
      <img src="./Logos_BI/python.png" width=80 height=80 alt="C++" />
    </p>
 
   
   <h3>Data Analysis & Modelling:</h3>
   <p align="left">
-     <img src="./Logos_DM/dax.png" width=80 height=80 alt="Excel VBA" />
-     &nbsp;&nbsp;
-     <img src="./Logos_DM/powerquery.png" width=80 height=80 alt="PowerBI DAX" />
-     &nbsp;&nbsp;
-     <img src="./Logos_DM/etl.png" width=80 height=80 alt="R Programming" />
-     &nbsp;&nbsp;
+     <img src="./Logos_DM/dax.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
+     <img src="./Logos_DM/powerquery.png" width=80 height=80 alt="PowerBI DAX" />&nbsp;&nbsp;
+     <img src="./Logos_DM/etl.png" width=80 height=80 alt="R Programming" />&nbsp;&nbsp;
      <img src="./Logos_DM/datawarehousing.png" width=80 height=80 alt="C#" />
    </p>
-
 
    <!-- Programming Languages -->
   <h3>Programming Languages:</h3>
    <p align="left">
-     <img src="./Logos_PL/vba.png" width=80 height=80 alt="Excel VBA" />
-     &nbsp;&nbsp;
-     <img src="./Logos_PL/dax.png" width=80 height=80 alt="PowerBI DAX" />
-     &nbsp;&nbsp;
-     <img src="./Logos_PL/r.png" width=80 height=80 alt="R Programming" />
-     &nbsp;&nbsp;
-     <img src="./Logos_PL/csharp.png" width=80 height=80 alt="C#" />
-     &nbsp;&nbsp;
+     <img src="./Logos_PL/vba.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
+     <img src="./Logos_PL/dax.png" width=80 height=80 alt="PowerBI DAX" />&nbsp;&nbsp;
+     <img src="./Logos_PL/r.png" width=80 height=80 alt="R Programming" />&nbsp;&nbsp;
+     <img src="./Logos_PL/csharp.png" width=80 height=80 alt="C#" />&nbsp;&nbsp;
      <img src="./Logos_PL/cplusplus.png" width=80 height=80 alt="C++" />
    </p>
 
    <!---database softwares--->
    <h3>Database Softwares:</h3>
    <p align="left">
-     <img src="./Logos_DB/mysql.png" width=80 height=80 alt="Excel VBA" />
-     &nbsp;&nbsp;
-     <img src="./Logos_DB/mongodb.png" width=80 height=80 alt="PowerBI DAX" />
-     &nbsp;&nbsp;
+     <img src="./Logos_DB/mysql.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
+     <img src="./Logos_DB/mongodb.png" width=80 height=80 alt="PowerBI DAX" />&nbsp;&nbsp;
      <img src="./Logos_DB/oracle.png" width=80 height=80 alt="R Programming" />
    </p>
 
   <!--Statistical Skills-->
 <h3>Statistical Skills :</h3>
 <p>
-  <img src="https://img.shields.io/badge/Statistical_Modelling-4285F4?style=flat" height="30" width="170" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Designs_Of_Experiments_(DOE)-EA4335?style=flat" height="30" width="230" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Multivariate_Data_analysis-FBBC04?style=flat"  height="30" width="220" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Statistical_Modelling-4285F4?style=flat" height="30" width="170" />&nbsp;
+  <img src="https://img.shields.io/badge/Designs_Of_Experiments_(DOE)-EA4335?style=flat" height="30" width="230" />&nbsp;
+  <img src="https://img.shields.io/badge/Multivariate_Data_analysis-FBBC04?style=flat"  height="30" width="220" />&nbsp;
   <img src="https://img.shields.io/badge/Quality_Control_tools-185C37?style=flat" height="30" width="170" />
   
-  <img src="https://img.shields.io/badge/Operational_Research-D04423?style=flat" height="30" width="180" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Regression_Analysis-AE4BD5?style=flat" height="30" width="170" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Generalized_Linear_Model-C94F60?style=flat" height="30" width="200" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Artificial_Intelligence_(AI)-34A853?style=flat" height="30" width="200" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Machine_Learning_(ML)-36454F?style=flat" height="30" width="170" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Decision_Trees-FF99CC?style=flat" height="30" width="130" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Finite_Population_Correction_Theory-36454F?style=flat" height="30" width="250" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Operational_Research-D04423?style=flat" height="30" width="180" />&nbsp;
+  <img src="https://img.shields.io/badge/Regression_Analysis-AE4BD5?style=flat" height="30" width="170" />&nbsp;
+  <img src="https://img.shields.io/badge/Generalized_Linear_Model-C94F60?style=flat" height="30" width="200" />&nbsp;
+  <img src="https://img.shields.io/badge/Artificial_Intelligence_(AI)-34A853?style=flat" height="30" width="200" />&nbsp;
+  <img src="https://img.shields.io/badge/Machine_Learning_(ML)-36454F?style=flat" height="30" width="170" />&nbsp;
+  <img src="https://img.shields.io/badge/Decision_Trees-FF99CC?style=flat" height="30" width="130" />&nbsp;
+  <img src="https://img.shields.io/badge/Finite_Population_Correction_Theory-36454F?style=flat" height="30" width="250" />&nbsp;
   <img src="https://img.shields.io/badge/Time_Series_Analysis-241571?style=flat" height="30" width="170" />
 </p>
 
@@ -194,119 +101,25 @@
 &nbsp;
 ![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=390)
 <br/>
-<!--------- Most Used Languages----
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashikanthmbhat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---Productive Time--
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashikanthmbhat&theme=transparent&utcOffset=8)
--------->
-<!--Contact Section--> 
-
-<!----Old Social ICons --Start----
-
-<h2 align="center">🤝 Connect With Me @ 🤝 </h2>
-<div align="center">
-  
-<a href="" target="_blank">
-<img src="./Icon/Icons/web.png" width=50 height=50 alt="www.shashikanthmbhat.com" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-<img src="./Icon/Icons/gmail.png" width=50 height=50 alt="shashikanthmbhat@gmail.com" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.instagram.com" target="_blank">
-<img src="./Icon/Icons/instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.githubcom/shashikanthmbht" target="_blank">
-<img src="./Icon/Icons/Github.png" width=50 height=50 alt="shashikanthmbhat" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.linkedin.com" target="_blank">
-<img src="./Icon/Icons/linkedin.png" width=50 height=50 alt="Linkedin" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.linkedin.com" target="_blank">
-<img src="./Icon/Icons/whatsapp.png" width=50 height=50 alt="+91 9886226207" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.facebook.com" target="_blank">
-<img src="./Icon/Icons/facebook.png" width=50 height=50 alt="Facebook" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.youtube.com" target="_blank">
-<img src="./Icon/Icons/Youtube.png" width=50 height=50 alt="Youtube" style="margin-bottom: 5px;" />
-</a>
-
-----Old Social Icon -----End---------------------->
-
-<!-------------------New Social Icons-------------->
-<!-----Blank Line------------>
-
-<!----Icons----->
-# 🤝 Connect With Me
+<!-------------------** New Social Icons **---------------------------------------------------------------------------------------------------------------> 
 <div align="left">
-  
-<a href="" target="_blank">
-<img src="./Social Icons/website.png" width=50 height=50 alt="Website" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="mailto:shashikanthmbhat@gmail.com" target="_blank">
-<img src="./Social Icons/gmail.png" width=50 height=50 alt="Gmail" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.instagram.com" target="_blank">
-<img src="./Social Icons/instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.githubcom/shashikanthmbht" target="_blank">
-<img src="./Social Icons/github.png" width=50 height=50 alt="Github" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.linkedin.com" target="_blank">
-<img src="./Social Icons/linkedin.png" width=50 height=50 alt="Linkedin" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.linkedin.com" target="_blank">
-<img src="./Social Icons/whatsapp.png" width=50 height=50 alt="Linked In" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.facebook.com" target="_blank">
-<img src="./Social Icons/facebook.png" width=50 height=50 alt="Facebook" style="margin-bottom: 5px;" />
-</a>
-&nbsp;
-&nbsp;
-
-<a href="https://www.youtube.com" target="_blank">
-<img src="./Social Icons/youtube.png" width=50 height=50 alt="Youtube" style="margin-bottom: 5px;" />
-</a>
+  <h2>🤝 Connect With Me</h2>
+  <a href="" target="_blank"><img src="./Social Icons/C1.png" width=80 height=80 alt="Website" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Social Icons/C2.png" width=80 height=80 alt="Gmail" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com" target="_blank"><img src="./Social Icons/C3.png" width=80 height=80 alt="Instagram" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.githubcom/shashikanthmbht" target="_blank"><img src="./Social Icons/C4.png" width=80 height=80 alt="Github" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com" target="_blank"><img src="./Social Icons/C5.png" width=80 height=80 alt="Linkedin" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com" target="_blank"><img src="./Social Icons/C6.png" width=80 height=80 alt="Linked In" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com" target="_blank"><img src="./Social Icons/C7.png" width=80 height=80 alt="Facebook" style="margin-bottom: 5px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com" target="_blank"><img src="./Social Icons/C8.png" width=80 height=80 alt="Youtube" style="margin-bottom: 5px;" /></a>
 </div>
 
 <!--Footer--> 
