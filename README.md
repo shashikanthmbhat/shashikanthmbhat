@@ -20,7 +20,7 @@
       Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
   </p>
   <ul align="left">
-    <li>🔭 I’m currently working on <strong><a href="https://github.com/shashi120992/Pac-Man">supply Chail Dashboard</a></strong></li>
+    <li>🔭 I’m currently working on <strong><a href="https://github.com/shashikanthmbhat/Hospial-Dashboard">Hospital Dashboard</a></strong></li>
     <li>🌱 I’m Expirienced in <strong>R Programming, SPSS & PowerBI DAX</strong>.</li>
     <li>🚀 I’m currently learning <strong>C#,C++, Data Structures & Algorithms</strong>.</li>
     <li>👨‍💻 All of my projects are available at <strong><a href="https://shashi120992.wixsite.com/shashikanth">My Portfolio</a></strong></li>
