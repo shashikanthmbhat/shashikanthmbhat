@@ -119,7 +119,7 @@
   &nbsp;&nbsp;
   <a href="https://www.facebook.com" target="_blank"><img src="./Social Icons/C7.png" width=80 height=80 alt="Facebook" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com" target="_blank"><img src="./Social Icons/C8.png" width=80 height=80 alt="Youtube" style="margin-bottom: 5px;" /></a>
+  <a href="https://www.youtube.com/@shashikanthbhat1684" target="_blank"><img src="./Social Icons/C8.png" width=80 height=80 alt="Youtube" style="margin-bottom: 5px;" /></a>
 </div>
 
 <!--Footer--> 
