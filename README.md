@@ -9,7 +9,7 @@
   <p align="center">
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
-    <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/whatsapp.png" Height="30" /></a>
+    <a href="https://wa.me/919886226207" target="_blank"><img src="./Logos_Head/whatsapp.png" Height="30" /></a>
     <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank"><img src="./Logos_Head/linkedin.png" Height="30" /></a>
   </p>
 </details>
@@ -113,9 +113,9 @@
   &nbsp;&nbsp;
   <a href="https://www.githubcom/shashikanthmbht" target="_blank"><img src="./Social Icons/C4.png" width=80 height=80 alt="Github" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com" target="_blank"><img src="./Social Icons/C5.png" width=80 height=80 alt="Linkedin" style="margin-bottom: 5px;" /></a>
+  <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank"><img src="./Social Icons/C5.png" width=80 height=80 alt="Linkedin" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com" target="_blank"><img src="./Social Icons/C6.png" width=80 height=80 alt="Linked In" style="margin-bottom: 5px;" /></a>
+  <a href="https://wa.me/919886226207" target="_blank"><img src="./Social Icons/C6.png" width=80 height=80 alt="Whatsapp" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com" target="_blank"><img src="./Social Icons/C7.png" width=80 height=80 alt="Facebook" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
