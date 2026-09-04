@@ -7,7 +7,7 @@
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
   <!----------------------------------------------------------------------------------** Social Media **----------------->
   <p align="center">
-    <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
+    <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
     <a href="https://wa.me/919886226207" target="_blank"><img src="./Logos_Head/whatsapp.png" Height="30" /></a>
     <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank"><img src="./Logos_Head/linkedin.png" Height="30" /></a>
@@ -105,7 +105,7 @@
 <!-------------------** New Social Icons **---------------------------------------------------------------------------------------------------------------> 
 <div align="left">
   <h2>🤝 Connect With Me</h2>
-  <a href="" target="_blank"><img src="./Social Icons/C1.png" width=80 height=80 alt="Website" style="margin-bottom: 5px;" /></a>
+  <a href="https://shashikanthmbhat.github.io" target="_blank"><img src="./Social Icons/C1.png" width=80 height=80 alt="Website" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
   <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Social Icons/C2.png" width=80 height=80 alt="Gmail" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
