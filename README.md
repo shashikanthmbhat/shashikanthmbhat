@@ -27,9 +27,6 @@
     <li>📫 How to reach me <strong><a href="mailto:shashkanthmbhat@gmail.com">shashkanthmbhat@gmail.com</a></strong></li>  
   </ul>
 
- <!--Programming Language Section----
-# 💻 Tech Stack:
----->
 # 🚀 Languages and Tools:
 <!--summary-->
 <h3 align="left">Current Learning</h3>
