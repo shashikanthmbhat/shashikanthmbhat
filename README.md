@@ -5,7 +5,7 @@
 <details open>
   <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
-  <!----------------------------------------------------------------------------------** Social Media **----------------->
+  <!----------------------------------------------------------------------------------** Social Media **-----sssss------------>
   <p align="center">
     <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
