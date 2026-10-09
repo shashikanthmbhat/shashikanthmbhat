@@ -15,6 +15,7 @@
 </details>
 
 <!--About Me Section--->
+<!--About me-->
 <h2>💫 About Me:</h2>
   <p align="justify">
       Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
