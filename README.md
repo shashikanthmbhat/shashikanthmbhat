@@ -47,7 +47,7 @@
      <img src="./Logos_BI/python.png" width=80 height=80 alt="C++" />
    </p>
 
-  
+  <!----->
   <h3>Data Analysis & Modelling:</h3>
   <p align="left">
      <img src="./Logos_DM/dax.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
@@ -56,6 +56,7 @@
      <img src="./Logos_DM/datawarehousing.png" width=80 height=80 alt="C#" />
    </p>
 
+   <!----->
    <!-- Programming Languages -->
   <h3>Programming Languages:</h3>
    <p align="left">
@@ -94,6 +95,7 @@
 
 
 <!-----Github Stats-------->
+<!----->
   # 📊 GitHub Stats:
   <!----Read Me & Streek Stats---------->
 ![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
