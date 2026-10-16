@@ -106,20 +106,35 @@
 <!-------------------** New Social Icons **---------------------------------------------------------------------------------------------------------------> 
 <div align="left">
   <h2>🤝 Connect With Me</h2>
+  <!--Website-->
   <a href="https://shashikanthmbhat.github.io" target="_blank"><img src="./Social Icons/C1.png" width=80 height=80 alt="Website" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--Gmail-->
   <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Social Icons/C2.png" width=80 height=80 alt="Gmail" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--Instagram-->
   <a href="https://www.instagram.com" target="_blank"><img src="./Social Icons/C3.png" width=80 height=80 alt="Instagram" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--Github-->
   <a href="https://www.githubcom/shashikanthmbht" target="_blank"><img src="./Social Icons/C4.png" width=80 height=80 alt="Github" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--LinkedIn-->
   <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank"><img src="./Social Icons/C5.png" width=80 height=80 alt="Linkedin" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--Whatsapp-->
   <a href="https://wa.me/919886226207" target="_blank"><img src="./Social Icons/C6.png" width=80 height=80 alt="Whatsapp" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--Facebook-->
   <a href="https://www.facebook.com" target="_blank"><img src="./Social Icons/C7.png" width=80 height=80 alt="Facebook" style="margin-bottom: 5px;" /></a>
   &nbsp;&nbsp;
+
+  <!--Youtube-->
   <a href="https://www.youtube.com/@shashikanthbhat1684" target="_blank"><img src="./Social Icons/C8.png" width=80 height=80 alt="Youtube" style="margin-bottom: 5px;" /></a>
 </div>
 
