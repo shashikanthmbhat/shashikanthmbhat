@@ -38,6 +38,7 @@
         <li>Exploring advanced C#, C++ and state management techniques.</li>
       </ul>
       
+  <!--Business Intelligence Tools-->
   <h3>Business Intelligence Tools:</h3>
   <p align="left">
      <img src="./Logos_BI/powerbi.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
@@ -47,7 +48,7 @@
      <img src="./Logos_BI/python.png" width=80 height=80 alt="C++" />
    </p>
 
-  <!----->
+  <!--Data Analysis & Modelling -->
   <h3>Data Analysis & Modelling:</h3>
   <p align="left">
      <img src="./Logos_DM/dax.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
