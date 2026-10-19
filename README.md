@@ -1,11 +1,13 @@
-<!--Header--> 
+<!--Header Stripe--> 
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
+<!--Header--->
 <!-----profile Image-->
   <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
+<!--Header-->
 <details open>
   <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
-  <!----------------------------------------------------------------------------------** Social Media **--------------->
+  <!--** Social Media **-->
   <p align="center">
     <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
@@ -13,6 +15,7 @@
     <a href="https://linkedin.com/in/Shashikanth_Bhat" target="_blank"><img src="./Logos_Head/linkedin.png" Height="30" /></a>
   </p>
 </details>
+<!--End Of Header-->
 
 <!--About Me Section--->
 <!--About me-->
@@ -20,7 +23,7 @@
   <p align="justify">
       Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
   </p>
-  <!--Bullet Pointa-->
+  <!--Bullet Points-->
   <ul align="left">
     <li>🔭 I’m currently working on <strong><a href="https://github.com/shashikanthmbhat/FIFA-World-Cup-2026-Dashboard">FIFA WorldCup 2026 Dashboard</a></strong></li>
     <li>🌱 I’m Expirienced in <strong>R Programming, SPSS & PowerBI DAX</strong>.</li>
@@ -57,7 +60,6 @@
      <img src="./Logos_DM/datawarehousing.png" width=80 height=80 alt="C#" />
    </p>
 
-   <!----->
    <!-- Programming Languages -->
   <h3>Programming Languages:</h3>
    <p align="left">
@@ -95,15 +97,14 @@
 
 
 <!-----Github Stats-------->
-<!----->
   # 📊 GitHub Stats:
-  <!----Read Me & Streek Stats---------->
+  <!----Read Me & Streek Stats------->
 ![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
 &nbsp;
 ![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=390)
 <br/>
 
-<!-------------------** New Social Icons **---------------------------------------------------------------------------------------------------------------> 
+<!--Social Media Icons--> 
 <div align="left">
   <h2>🤝 Connect With Me</h2>
   <!--Website-->
@@ -131,7 +132,7 @@
   <a href="https://www.youtube.com/@shashikanthbhat1684" target="_blank"><img src="./Social Icons/C8.png" width=80 height=80 alt="Youtube" style="margin-bottom: 5px;" /></a>
 </div>
 
-<!--Footer--> 
+<!--Footer Strip--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=footer&reversal=false&fontSize=45"/>
 </p>
