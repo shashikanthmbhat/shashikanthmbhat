@@ -31,7 +31,9 @@
     <li>👨‍💻 All of my projects are available at <strong><a href="https://shashi120992.wixsite.com/shashikanth">My Portfolio</a></strong></li>
     <li>📫 How to reach me <strong><a href="mailto:shashkanthmbhat@gmail.com">shashkanthmbhat@gmail.com</a></strong></li>  
   </ul>
+<!-- End Of About Me Section-->
 
+<!--Language & Tools-->
 # 🚀 Languages and Tools:
 <!--summary-->
 <h3 align="left">Current Learning</h3>
@@ -77,6 +79,7 @@
      <img src="./Logos_DB/mongodb.png" width=80 height=80 alt="PowerBI DAX" />&nbsp;&nbsp;
      <img src="./Logos_DB/oracle.png" width=80 height=80 alt="R Programming" />
    </p>
+   <!--End of Language & Tools-->
 
   <!--Statistical Skills-->
 <h3>Statistical Skills :</h3>
