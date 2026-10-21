@@ -134,9 +134,11 @@
   <!--Youtube-->
   <a href="https://www.youtube.com/@shashikanthbhat1684" target="_blank"><img src="./Social Icons/C8.png" width=80 height=80 alt="Youtube" style="margin-bottom: 5px;" /></a>
 </div>
+<!---->
 
 <!--Footer Strip--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=footer&reversal=false&fontSize=45"/>
 </p>
 <!--End Of Page>
+<!---->
