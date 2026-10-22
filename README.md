@@ -140,5 +140,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=footer&reversal=false&fontSize=45"/>
 </p>
-<!--End Of Page>
-<!---->
