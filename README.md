@@ -11,6 +11,7 @@
   <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
   <!--** Social Media **-->
+  <!-------->
   <p align="center">
     <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
@@ -21,12 +22,15 @@
 <!--End Of Header-->
 
 <!--About Me Section--->
+<!-------->
 <!--About me-->
+<!-------->
 <h2>💫 About Me:</h2>
   <p align="justify">
       Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
   </p>
   <!--Bullet Points-->
+  <!-------->
   <ul align="left">
     <li>🔭 I’m currently working on <strong><a href="https://github.com/shashikanthmbhat/FIFA-World-Cup-2026-Dashboard">FIFA WorldCup 2026 Dashboard</a></strong></li>
     <li>🌱 I’m Expirienced in <strong>R Programming, SPSS & PowerBI DAX</strong>.</li>
@@ -37,6 +41,7 @@
 <!-- End Of About Me Section-->
 
 <!--Language & Tools-->
+<!-------->
 # 🚀 Languages and Tools:
 <!--summary-->
 <h3 align="left">Current Learning</h3>
