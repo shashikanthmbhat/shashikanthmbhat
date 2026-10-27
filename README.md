@@ -52,6 +52,7 @@
       </ul>
       
   <!--Business Intelligence Tools-->
+  <!------->
   <h3>Business Intelligence Tools:</h3>
   <p align="left">
      <img src="./Logos_BI/powerbi.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
@@ -62,6 +63,7 @@
    </p>
 
   <!--Data Analysis & Modelling -->
+  <!------>
   <h3>Data Analysis & Modelling:</h3>
   <p align="left">
      <img src="./Logos_DM/dax.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
@@ -71,6 +73,7 @@
    </p>
 
    <!-- Programming Languages -->
+   <!------->
   <h3>Programming Languages:</h3>
    <p align="left">
      <img src="./Logos_PL/vba.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
@@ -81,6 +84,7 @@
    </p>
 
    <!---database softwares--->
+   <!------->
    <h3>Database Softwares:</h3>
    <p align="left">
      <img src="./Logos_DB/mysql.png" width=80 height=80 alt="Excel VBA" />&nbsp;&nbsp;
@@ -90,6 +94,7 @@
    <!--End of Language & Tools-->
 
   <!--Statistical Skills-->
+  <!------->
 <h3>Statistical Skills :</h3>
 <p>
   <img src="https://img.shields.io/badge/Statistical_Modelling-4285F4?style=flat" height="30" width="170" />&nbsp;
