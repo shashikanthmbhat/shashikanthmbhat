@@ -1,17 +1,17 @@
 <!--Header Stripe--> 
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
 <!--Header--->
-<!-------->
+
 <!-----profile Image--->
   <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
-<!------->
+
 <!--Header-->
-<!-------->
+
 <details open>
   <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
   <!--** Social Media **-->
-  <!-------->
+  
   <p align="center">
     <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
@@ -22,9 +22,7 @@
 <!--End Of Header-->
 
 <!--About Me Section--->
-<!-------->
 <!--About me-->
-<!-------->
 <h2>💫 About Me:</h2>
   <p align="justify">
       Power BI Analyst with 3+ years of experience and a Statistician with 10+ years of expertise, transforming complex data into actionable insights across healthcare, finance, and research. Skilled in building interactive dashboards, data modeling, and advanced analytics, with strong proficiency in Power BI, SQL, R, Python, and SAS to drive data-driven decisions and measurable business impact.
