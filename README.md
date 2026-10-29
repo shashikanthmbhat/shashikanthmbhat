@@ -1,16 +1,19 @@
 <!--Header Stripe--> 
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
 <!--Header--->
+<!------------>
 
 <!-----profile Image--->
+<!------------>
   <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
 
 <!--Header-->
-
+<!------------>
 <details open>
   <summary align="center"><h1>Hi 👋, I'm Shashikanth Bhat</h1></summary>
   <h3 align="center">PowerBI Analyst | Statistician | Research & Analytics Expert</h3>
   <!--** Social Media **-->
+<!------------>
   
   <p align="center">
     <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
@@ -20,8 +23,10 @@
   </p>
 </details>
 <!--End Of Header-->
+<!------------>
 
 <!--About Me Section--->
+<!------------>
 <!--About me-->
 <h2>💫 About Me:</h2>
   <p align="justify">
@@ -37,6 +42,7 @@
     <li>📫 How to reach me <strong><a href="mailto:shashkanthmbhat@gmail.com">shashkanthmbhat@gmail.com</a></strong></li>  
   </ul>
 <!-- End Of About Me Section-->
+<!------------>
 
 <!--Language & Tools-->
 <!-------->
@@ -113,12 +119,14 @@
 <!-----Github Stats-------->
   # 📊 GitHub Stats:
   <!----Read Me & Streek Stats------->
+<!------------>
 ![](https://github-readme-stats.shion.dev/api?username=shashikanthmbhat&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=330)
 &nbsp;
 ![](https://streak-stats.demolab.com/?user=shashikanthmbhat&theme=transparent&hide_border=false&card_width=390)
 <br/>
 
 <!--Social Media Icons--> 
+<!------------>
 <div align="left">
   <h2>🤝 Connect With Me</h2>
   <!--Website-->
