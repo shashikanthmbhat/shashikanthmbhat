@@ -1,17 +1,6 @@
 <!--Header Stripe--> 
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=51&section=header&reversal=false&fontSize=45"/>
 <!--Header---->
-<!--profile Image-->
-<!------------>
-<!------------>
-<!------------>
-<!------------>
-<!------------>
-<!------------>
-<!------------>
-<!------------>
-<!------------>
-<!------------>
   <img align="right" width="25%" src="./Photo/Github Photo Without Bg 2.png">
 <!---------->
 <!--Header-->
