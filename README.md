@@ -10,6 +10,14 @@
 <!-- Social Media -->
 <!------------>
 <!------------>
+<!------------>
+<!------------>
+<!------------>
+<!------------>
+<!------------>
+<!------------>
+<!------------>
+<!------------>
   <p align="center">
     <a href="https://shashikanthmbhat.github.io/" target="_blank"><img src="./Logos_Head/website.png" Height="30" /></a>
     <a href="mailto:shashikanthmbhat@gmail.com" target="_blank"><img src="./Logos_Head/gmail.png" Height="30" /></a>
